@@ -1,4 +1,4 @@
-AutoApplyPro
+
 AutoApplyPro is a cross-platform job application system designed to automate the application process, intelligently matching candidates to job postings and applying on their behalf.
 Its core innovation is the Auto-Apply Algorithm, which analyzes both user profile data and uploaded resume content to determine the best job matches.
 
